@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CNF-GF-328923</Machine>
+    <WindowsUser>Parijat.Mishra</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>debug|anycpu</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9213de80-043d-11e5-9b5d-e9cb7d5ad1a5</PackageIdentityName>
+    <IntermediateOutputPath>D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\build\phone\bld\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\build\phone\debug\anycpu\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\images\SplashScreenPhone.scale-240.png">
+      <PackagePath>images\SplashScreenPhone.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\images\Square150x150Logo.scale-240.png">
+      <PackagePath>images\Square150x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\images\Square44x44Logo.scale-240.png">
+      <PackagePath>images\Square44x44Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\images\Square71x71Logo.scale-240.png">
+      <PackagePath>images\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\images\StoreLogo.scale-240.png">
+      <PackagePath>images\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\images\Wide310x150Logo.scale-240.png">
+      <PackagePath>images\Wide310x150Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\images\cake2.png">
+      <PackagePath>www\images\cake2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\scripts\chui-3.8.5.min.js">
+      <PackagePath>www\scripts\chui-3.8.5.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\scripts\index.js">
+      <PackagePath>www\scripts\index.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\scripts\jquery-2.1.0.js">
+      <PackagePath>www\scripts\jquery-2.1.0.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\scripts\winstore-jscompat.js">
+      <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\css\chui-android-3.8.5.css">
+      <PackagePath>www\css\chui-android-3.8.5.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\css\chui-ios-3.8.5.css">
+      <PackagePath>www\css\chui-ios-3.8.5.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\css\chui-win-3.8.5.css">
+      <PackagePath>www\css\chui-win-3.8.5.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\images\Background.jpg">
+      <PackagePath>www\images\Background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\images\cake1.jpg">
+      <PackagePath>www\images\cake1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\images\cake3.jpg">
+      <PackagePath>www\images\cake3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\images\cake4.jpg">
+      <PackagePath>www\images\cake4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\images\drink1.jpg">
+      <PackagePath>www\images\drink1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\images\drink2.jpg">
+      <PackagePath>www\images\drink2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\images\drink3.jpg">
+      <PackagePath>www\images\drink3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\images\drink4.jpg">
+      <PackagePath>www\images\drink4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\images\Pizza1.jpg">
+      <PackagePath>www\images\Pizza1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\images\Pizza2.jpg">
+      <PackagePath>www\images\Pizza2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\images\Pizza3.jpg">
+      <PackagePath>www\images\Pizza3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\images\Pizza4.jpg">
+      <PackagePath>www\images\Pizza4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\LG_07_Activities and Exercises\LG_07_Activity_01\MyRestaura\MyRestaura\platforms\windows\build\phone\debug\anycpu\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\">
+      <Name>Microsoft.Phone.WinJS.2.1</Name>
+      <Version>1.0.9651.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.Phone.WinJS.2.1, MinVersion=1.0.9651.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\Microsoft.Phone.WinJS.2.1\1.0\Microsoft.Phone.WinJS.2.1.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

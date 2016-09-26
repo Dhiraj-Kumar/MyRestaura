@@ -1,0 +1,21 @@
+{
+    "com.cranberrygame.cordova.plugin.ad.admob": {
+        "source": {
+            "type": "local",
+            "path": "D:\\DATMD - Extension\\Project 1\\cordova-plugin-ad-admob-master\\cordova-plugin-ad-admob-master"
+        }
+    },
+    "com.cranberrygame.cordova.plugin.ad.admobsdk": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/cranberrygame/cordova-plugin-ad-admobsdk",
+            "subdir": "."
+        }
+    },
+    "com.google.playservices": {
+        "source": {
+            "type": "registry",
+            "id": "com.google.playservices@21.0.0"
+        }
+    }
+}

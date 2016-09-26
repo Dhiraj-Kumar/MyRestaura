@@ -1,0 +1,15 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "com.cranberrygame.cordova.plugin.ad.admob": {
+            "PACKAGE_NAME": "MyRestaura"
+        }
+    },
+    "dependent_plugins": {}
+}

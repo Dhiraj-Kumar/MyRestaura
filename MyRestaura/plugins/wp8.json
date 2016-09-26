@@ -1,0 +1,56 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "Properties/WMAppManifest.xml": {
+                "parents": {
+                    "/Deployment/App/Capabilities": [
+                        {
+                            "xml": "<Capability Name=\"ID_CAP_IDENTITY_USER\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<Capability Name=\"ID_CAP_NETWORKING\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<Capability Name=\"ID_CAP_WEBBROWSERCOMPONENT\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<Capability Name=\"ID_CAP_PHONEDIALER\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<Capability Name=\"ID_CAP_MEDIALIB_PHOTO\" />",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"Admob\"><param name=\"wp-package\" value=\"Admob\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.cranberrygame.cordova.plugin.ad.admob": {
+            "PACKAGE_NAME": "{6a643d00-0396-11e5-a8ef-c14395706f2f}"
+        }
+    },
+    "dependent_plugins": {
+        "com.cranberrygame.cordova.plugin.ad.admobsdk": {
+            "PACKAGE_NAME": "{6a643d00-0396-11e5-a8ef-c14395706f2f}"
+        }
+    }
+}
